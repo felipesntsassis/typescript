@@ -1,2 +1,2 @@
-# typescript
-Repositório para estudos do TypeScript.
+# TypeScript
+Repositório para estudos do TypeScript na trilha .
